@@ -1,0 +1,43 @@
+<div class="membership-plans">
+<div class="plan">
+<h3>Soporte Básico</h3>
+<p class="price">$0/mes</p>
+<ul>
+<li>Free por tiempo indefinido en compras con Hellow</li>
+<li>Diagnóstico de soporte requerido</li>
+<li>Incidencias básicas</li>
+<li>Acceso a manuales básicos</li>
+<li>Inconvenientes en sistemas físicos</li>
+<li>Configuración de hardware y software</li>
+<li>Restablecer usuario y contraseña</li>
+</ul>
+<a href="https://www.hellow.mx/products/plan-gratis">Comprar ahora</a></div>
+<div class="plan">
+<h3>Soporte Especializado</h3>
+<p class="price">$2399.99/mes</p>
+<ul>
+<li>(Incluye 5 eventos)</li>
+<li>Tiempo de respuesta máxima de 4 hrs</li>
+<li>Disponibilidad L-V (9:00 hrs-18:00 hrs)</li>
+<li>Eventos no utilizados son acumulables en la renovación del plan mensual</li>
+<li>Solucionar problemas de índole más técnica e informática</li>
+<li>Atención de ingenieros certificados</li>
+</ul>
+<a href="https://www.hellow.mx/products/soporte-especializado">Comprar ahora</a></div>
+<div class="plan">
+<h3>Soporte Avanzado</h3>
+<p class="price">$1899.99/mes</p>
+<ul>
+<li>(Incluye 3 eventos)</li>
+<li>Desarrollar y actualizar bases de datos;</li>
+<li>Tiempo de respuesta máxima de 1 hrs</li>
+<li>Disponibilidad L-V (9:00 hrs-18:00 hrs)</li>
+<li>Eventos no utilizados son acumulables en la renovación del plan mensual</li>
+<li>Solucionar problemas de configuración avanzada de equipos de clientes</li>
+<li>Desarrollar y actualizar bases de datos</li>
+<li>Reparar servidores</li>
+<li>Desarrollar soluciones para nuevos problemas</li>
+<li>Administrar redes e infraestructura técnica</li>
+</ul>
+<a href="https://www.hellow.mx/products/soporte-avanzado">Comprar ahora</a></div>
+</div>
