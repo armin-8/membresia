@@ -1,0 +1,328 @@
+<div class="membership-plans">
+<div class="plan">
+<h3>Soporte basico</h3>
+<p>Precio: $0/mes</p>
+<p>Características principales:</p>
+<ul>
+<li>Free por tiempo indefinido en compras con Hellow</li>
+<li>Diagnóstico de soporte requerido</li>
+<li>Incidencias básicas</li>
+<li>Acceso a manuales básicos</li>
+<li>Inconvenientes en sistemas físicos</li>
+<li>Configuración de hardware y software</li>
+<li>Restablecer usuario y contraseña</li>
+</ul>
+<a href="https://www.hellow.mx/products/plan-gratis">Comprar ahora</a>
+</div>
+<div class="plan">
+<h3>Soporte especializado</h3>
+<p>Precio: $1999.99/mes</p>
+<p>Características Principales:</p>
+<ul>
+<li>Precio por evento $500+ IVA (1 hora)</li>
+<li>(Incluye 5 eventos)</li>
+<li>Tiempo de respuesta máxima de 4 hrs</li>
+<li>Disponibilidad L-V (9:00 hrs-18:00 hrs)</li>
+<li>Eventos no utilizados son acumulables en la renovación del plan mensual</li>
+<li>Solucionar problemas de índole más técnica e informática</li>
+<li>Atención de ingenieros certificados</li>
+</ul>
+<a href="#">Comprar ahora</a>
+</div>
+<div class="plan">
+<h3>Soporte avanzado</h3>
+<p>Precio: $30/mes</p>
+<p>Descripción:</p>
+<ul>
+<li>Precio por evento $800+ IVA (1 hora)</li>
+<li>Desarrollar y actualizar bases de datos; </li>
+<li>Tiempo de respuesta máxima de 1 hrs</li>
+<li>Disponibilidad L-V (9:00 hrs-18:00 hrs)</li>
+<li>Eventos no utilizados son acumulables en la renovación del plan mensual</li>
+<li>Solucionar problemas de configuración avanzada de equipos de clientes</li>
+<li>Desarrollar y actualizar bases de datos</li>
+<li>Reparar servidores</li>
+<li>Desarrollar soluciones para nuevos problemas</li>
+<li>Administrar redes e infraestructura técnica</li>
+</ul>
+<a href="#">Comprar ahora</a>
+</div>
+</div>
+
+
+estilos:
+
+.membership-plans {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.plan {
+  text-align: center;
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 0 5px #ccc;
+}
+
+.plan h3 {
+  font-size: 24px;
+}
+
+.plan p {
+  font-size: 18px;
+}
+
+.plan a {
+  display: block;
+  margin: 20px auto 0;
+  padding: 10px 20px;
+  background-color: #3366cc;
+  color: #fff;
+  font-size: 20px;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.plan a:hover {
+  background-color: #204b8e;
+}
+
+
+PRO:
+<div class="membership-plans">
+<div class="plan">
+<h3>Soporte Básico</h3>
+<p class="price">$0/mes</p>
+<ul>
+<li>Free por tiempo indefinido en compras con Hellow</li>
+<li>Diagnóstico de soporte requerido</li>
+<li>Incidencias básicas</li>
+<li>Acceso a manuales básicos</li>
+<li>Inconvenientes en sistemas físicos</li>
+<li>Configuración de hardware y software</li>
+<li>Restablecer usuario y contraseña</li>
+</ul>
+<a href="https://www.hellow.mx/products/plan-gratis">Comprar ahora</a></div>
+<div class="plan">
+<h3>Soporte Especializado</h3>
+<p class="price">$1999.99/mes</p>
+<ul>
+<li>Precio por evento $500+ IVA (1 hora)</li>
+<li>(Incluye 5 eventos)</li>
+<li>Tiempo de respuesta máxima de 4 hrs</li>
+<li>Disponibilidad L-V (9:00 hrs-18:00 hrs)</li>
+<li>Eventos no utilizados son acumulables en la renovación del plan mensual</li>
+<li>Solucionar problemas de índole más técnica e informática</li>
+<li>Atención de ingenieros certificados</li>
+</ul>
+<a href="https://www.hellow.mx/products/soporte-especializado">Comprar ahora</a></div>
+<div class="plan">
+<h3>Soporte Avanzado</h3>
+<p class="price">$1599.99/mes</p>
+<ul>
+<li>Precio por evento $800+ IVA (1 hora)</li>
+<li>Desarrollar y actualizar bases de datos;</li>
+<li>Tiempo de respuesta máxima de 1 hrs</li>
+<li>Disponibilidad L-V (9:00 hrs-18:00 hrs)</li>
+<li>Eventos no utilizados son acumulables en la renovación del plan mensual</li>
+<li>Solucionar problemas de configuración avanzada de equipos de clientes</li>
+<li>Desarrollar y actualizar bases de datos</li>
+<li>Reparar servidores</li>
+<li>Desarrollar soluciones para nuevos problemas</li>
+<li>Administrar redes e infraestructura técnica</li>
+</ul>
+<a href="https://www.hellow.mx/products/soporte-avanzado">Comprar ahora</a></div>
+</div>
+
+CSS PRO:
+.membership-plans .plan {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 0 5px #ccc;
+}
+
+}
+.plan {
+  text-align: center;
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #
+}
+
+.plan h3 {
+  font-size: 40px;
+}
+
+.plan p {
+  font-size: 18px;
+}
+
+.plan ul {
+  text-align: left;
+  font-size: 20px;
+  line-height: 1.5;
+  color: #1e2d7d;
+}
+
+.plan a {
+  display: block;
+  margin: 20px auto 0;
+  padding: 10px 20px;
+  background-color: #6cd0e1;
+  color: #1e2d7d;
+  font-size: 20px;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.plan a:hover {
+  background-color: #eea700;
+}
+.plan a {
+  color: #1e2d7d !important;
+}
+.plan h3 + p {
+  font-size: 50px;
+}
+.page__title {
+  font-size: 50px;
+}
+
+Version 2: 
+<div class="membership-plans">
+  <div class="plan">
+    <h3>Soporte básico</h3>
+    <p class="price">$0/mes</p>
+    <ul>
+      <li>Free por tiempo indefinido en compras con Hellow</li>
+      <li>Diagnóstico de soporte requerido</li>
+      <li>Incidencias básicas</li>
+      <li>Acceso a manuales básicos</li>
+      <li>Inconvenientes en sistemas físicos</li>
+      <li>Configuración de hardware y software</li>
+      <li>Restablecer usuario y contraseña</li>
+    </ul>
+    <a href="https://www.hellow.mx/products/plan-gratis">Comprar ahora</a>
+  </div>
+  <div class="plan">
+    <h3>Soporte especializado</h3>
+    <p class="price">$1999.99/mes</p>
+    <ul>
+      <li>Precio por evento $500+ IVA (1 hora)</li>
+      <li>(Incluye 5 eventos)</li>
+      <li>Tiempo de respuesta máxima de 4 hrs</li>
+      <li>Disponibilidad L-V (9:00 hrs-18:00 hrs)</li>
+      <li>Eventos no utilizados son acumulables en la renovación del plan mensual</li>
+      <li>Solucionar problemas de índole más técnica e informática</li>
+      <li>Atención de ingenieros certificados</li>
+    </ul>
+    <a href="#">Comprar ahora</a>
+  </div>
+  <div class="plan">
+    <h3>Soporte avanzado</h3>
+    <p class="price">$30/mes</p>
+    <ul>
+      <li>Precio por evento $800+ IVA (1 hora)</li>
+      <li>Desarrollar y actualizar bases de datos;</li>
+      <li>Tiempo de respuesta máxima de 1 hrs</li>
+      <li>Disponibilidad L-V (9:00 hrs-18:00 hrs)</li>
+      <li>Eventos no utilizados son acumulables en la renovación del plan mensual</li>
+      <li>Solucionar problemas de configuración avanzada de equipos de clientes</li>
+      <li>Desarrollar soluciones para nuevos problemas</li>
+      <li>Administrar redes e infraestructura técnica</li>
+      <li>Reparar servidores</li>
+    </ul>
+    <a href="#">Comprar ahora</a>
+  </div>
+</div>
+
+CSS:
+.membership-plans {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.plan {
+  text-align: center;
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 0 5px #ccc;
+  flex: 1;
+}
+
+.plan h3 {
+  font-size: 24px;
+  margin-top: 0;
+}
+
+.plan .price {
+  font-size: 22px;
+  font-weight: bold;
+  color: #3366
+
+
+estilo 3
+.membership-plans {
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+  flex-wrap: wrap;
+}
+
+.plan {
+  text-align: center;
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 0 5px #ccc;
+}
+
+.plan h3 {
+  font-size: 24px;
+}
+
+.plan p {
+  font-size: 18px;
+}
+
+.plan ul {
+  text-align: left;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.plan a {
+  display: block;
+  margin: 20px auto 0;
+  padding: 10px 20px;
+  background-color: #3366cc;
+  color: #fff;
+  font-size: 20px;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.plan a:hover {
+  background-color: #204b8e;
+}
+
+
+
+
+
+
+
+
+<div class="membership-plans"></div>
+<div class="membership-plans"></div>
+<div class="membership-plans"></div>
