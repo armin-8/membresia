@@ -1,0 +1,61 @@
+.membership-plans .plan {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 0 5px #ccc;
+}
+
+}
+.plan {
+  text-align: center;
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #
+}
+
+.plan h3 {
+  font-size: 40px;
+}
+
+.plan p {
+  font-size: 18px;
+}
+
+.plan ul {
+  text-align: left;
+  font-size: 20px;
+  line-height: 1.5;
+  color: #1e2d7d;
+}
+
+.plan a {
+  display: block;
+  margin: 20px auto 0;
+  padding: 10px 20px;
+  background-color: #6cd0e1;
+  color: #1e2d7d;
+  font-size: 20px;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.plan a:hover {
+  background-color: #eea700;
+}
+.plan a {
+  color: #1e2d7d !important;
+}
+.plan h3 + p {
+  font-size: 50px;
+}
+.page__title {
+  font-size: 50px;
+}
+
+.plan {
+  transition: transform 0.2s ease-in-out;
+}
+
+.plan:hover {
+  transform: scale(1.05);
+}
